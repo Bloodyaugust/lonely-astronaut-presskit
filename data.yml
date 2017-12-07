@@ -1,148 +1,89 @@
-developer: "Company Name"
-developer_location: "Company Country"
-developer_website: "http://developersite.com"
+developer: "Greyson Richey and Nicholas Lives"
+developer_location: "Washington/Utah"
+developer_website: "http://lonelyastronaut.space/"
 developer_about: |
     **Boilerplate:**  
-    Short description of the company.
-    
-    **More information:**  
-    More information on Company Name is available [here](http://developersite.com).
-socials:
-    - 
-        name: "twitter.com/MyCompanyName"
-        link: "twitter.com/MyCompanyName"
-    -
-        name: "facebook.com/MyCompanyName"
-        link: "facebook.com/MyCompanyName"
-    -
-        name: Skype
-        link: "callto:MySkypeName"
+    Greyson Richey and Nicholas Lives are two indie developers who met in the local Utah Game Development community. Greyson has a background in web development, and Nick a background in animation and his prior indie title, "We Need To Go Deeper." Both of these dumbos want to make games and so they make games.
 
-title: "Game Name"
-release_date: "1 May, 2012"
-website: "gamesite.com"
+title: "Lonely Astronaut"
+release_date: "Q1 2018"
+website: "http://lonelyastronaut.space/"
 zip: "game-presskit.zip"
 platforms:
     -
-        name: "PC / Mac"
-        link: "http://www.gamesite.com/"
+        name: "PC / Mac / Linux"
+        link: "http://lonelyastronaut.space/"
     -
-        name: Steam
-        link: "http://www.steampowered.com/"
-    - 
-        name: "Apple App Store"
-        link: "http://www.itunes.com/"
+        name: "Steam"
+        link: "http://store.steampowered.com/app/755830/Lonely_Astronaut/"
+
 prices: 
     -
         currency: USD
-        value: "$1.99"
+        value: "$2.99"
     -
         currency: EUR
-        value: "€1.59"
+        value: "€2.99"
     -
         currency: CAD
-        value: "$1.99"
+        value: "$3.39"
     -
         currency: GBP
-        value: "£1.29"
+        value: "£2.09"
 description: |
-    We're games studio and we make games. We're also capable of editing XML files. We can also hopefully edit YAML and markdown.
-    
-    This is markdown inside YAML, you can:
-    
-    1. **Add formatting**.
-    2. Do lists.
-    3. *All sorts of stuff.*
-    
-    This is the example of a presskit-static configuration. I've included media from a game I made called [Alien Rampage](http://alienrampage.net) because I didn't want to go hunting for stock photos.
+    Lonely Astronaut is a one-button arcade game in which you pilot the corpse of a long-abandoned astronaut floating in a cosmic graveyard. In the process, you might find out something about the human condition. But probably not.
+
 history: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.
+    Lonely Astronaut started life as a simple Ludum Dare project made by developer Greyson Richey, with the theme "A Small World." The original project featured a small perpetually spinning astronaut, a jetpack, and asteroids to avoid, along with a simple score timer. Greyson later teamed up with artist/animator Nick Lives to turn it into a full-fledged product in the late summer of 2017. The game was retooled and rethemed to evoke a bleaker, Space Odyssey-like aesthetic and a darker sense of humor, with more in-depth arcade progression and stylings to go with it.
 features: |
-    - "Includes something really interesting about the game which players will love."
-    - "This feature line is about the 8-bit pixels that are no doubt featuring in this game."
-    - "Since it is unlikely that the audio isn't fucking amazing, say something about the audio, maybe?"
-    - "Make sure to stress that everything about this game is absolutely fabulous."
-    - "Something to wrap up this 5-point feature list with a nice ring to it."
+    - "**Pilot a Corpse with a Single Button:** With only the ability to thrust the Astronaut's body around with its malfunctioning jetpack, Lonely Astronaut is accessible but brutal."
+    - "**Discover Cosmic Truths:** The wonders of space will reveal themselves to you as you play. If only you were alive to see these truths unfold."
+    - "**Unlock Cosmetics:** Play dress-up with your corpse because that's healthy."
+    - "**Feel Existential Dread:** A friendly reminder that you and I are all going to die someday, probably sooner than we'd like to think."
 videos: 
     -
-        name: "This video is nice"
-        youtube: 7jQbITg0MSk
-    -
-        name: "This one too"
-        youtube: 0CevOaYrYDA
-        vimeo: 12536488
-awards: 
-    -
-        description: "Winner in this highly relevant contest."
-        info: "Award Location, 20 October, 1989"
-    -
-        description: "Nomination for this prestigious award."
-        info: "Award Ceremony, 4 December, 1991"
-    -
-        description: "Winner in this highly relevant contest."
-        info: "Award Location, 20 October, 1989"
-    -
-        description: "Nomination for this prestigious award."
-        info: "Award Ceremony, 4 December, 1991"
+        name: "Announcement Trailer"
+        youtube: DyGCm2Y3kJw
+
 quotes: 
     -
-        name: "Person Name"
-        description: "This is a rather insignificant quote by a highly important person."
-        website: Website
-        link: "http://www.website.com/"
-    -
-        name: "Some Guy"
-        description: "An extremely positive quote from a rather insignificant person. Also great."
-        website: "This Page Is Visited By 12 Visitors A Month"
-        link: "http://geocities.blog.com/"
-    -
-        name: "Pretentious Bastard"
-        description: "I pretend to love this game even though I do not actually understand it."
-        website: "Artsy Page"
-        link: "http://art.tumblr.com/"
-    -
-        name: "Caps Guy"
-        description: "HOLY SHIT SO AMAZING"
-        website: "Angry Review"
-        link: "http://thispage.net/angrytube"
+        name: "Jody Macgregor"
+        description: "I don't know about you, but that's my money down."
+        website: PCGamer
+        link: "http://www.pcgamer.com/watch-the-trailer-for-lonely-astronaut-a-game-about-a-skeleton-in-space/"
 "monetization_permission": monetize
-additionals: 
-    -
-        title: "Company Link #1"
-        description: "This link is a link that might be useful. You can check it out at"
-        link: "http://somemusicsite.com/thislink"
+
+
 credits: 
     -
-        person: "John Doe"
-        role: "Artist, Freelancer"
+        person: "Greyson Richey"
+        website: "http://synsugarstudio.com/"
+        role: "Programmer"
     -
-        person: "Oliver Twist"
-        website: "www.olivertwist.com"
-        role: "Artist, Freelancer"
-    -
-        person: "Jane Doette"
-        website: "www.olivertwist.com"
-        role: "Music, Freelancer"
+        person: "Nick Lives"
+        website: "http://nicholaslives.portfoliobox.io/"
+        role: "Artist, Marketing"
+
 contacts: 
     -
-        name: Inquiries
-        mail: "rami@vlambeer.com"
+        name: Email
+        mail: "loneliestspaceman@gmail.com"
     -
-        name: Twitter
-        link: "http://twitter.com/MyCompanyName"
+        name: Nick's Twitter
+        link: "https://twitter.com/SlickNickLives"
     -
-        name: Facebook
-        link: "http://facebook.com/MyCompanyName"
+        name: Greyson's Twitter
+        link: "https://twitter.com/Bloodyaugust"
     -
         name: Web
-        link: "MyCompanyWebsite.com"
+        link: "http://lonelyastronaut.space/"
 screenshots: 6
-gifs: 4
-hero_images: 2
+gifs: 3
+hero_images: 3
 logo:
-    - "logo.png"
-    - "logo-dark.png"
+    - "LA-LogoWhite.png"
+    - "LA-LogoBlack.png"
+    - "AstronautMenuAssetHD.png"
 icon:
-    - "icon-rounded.png"
-    - "icon-square.png"
+    - "icon.jpg"
 "google_analytics_id": UA-57530123-1
