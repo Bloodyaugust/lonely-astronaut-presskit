@@ -44,11 +44,13 @@ function refreshScrollSpy () {
 }
 
 function checkVis(elem) {
-  if( isVis( "#"+elem ) ) {
-    $("#m-"+elem).addClass('active')
-  }
-  else {
-    $("#m-"+elem).removeClass('active')
+  if ($('#' + elem)[0]) {
+    if( isVis( "#"+elem ) ) {
+      $("#m-"+elem).addClass('active')
+    }
+    else {
+      $("#m-"+elem).removeClass('active')
+    }
   }
 }
 

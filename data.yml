@@ -2,7 +2,7 @@ developer: "Greyson Richey and Nicholas Lives"
 developer_location: "Washington/Utah"
 developer_website: "http://lonelyastronaut.space/"
 developer_about: |
-    **Boilerplate:**  
+    **Boilerplate:**
     Greyson Richey and Nicholas Lives are two indie developers who met in the local Utah Game Development community. Greyson has a background in web development, and Nick a background in animation and his prior indie title, "We Need To Go Deeper." Both of these dumbos want to make games and so they make games.
 
 title: "Lonely Astronaut"
@@ -17,7 +17,7 @@ platforms:
         name: "Steam"
         link: "http://store.steampowered.com/app/755830/Lonely_Astronaut/"
 
-prices: 
+prices:
     -
         currency: USD
         value: "$2.99"
@@ -40,12 +40,12 @@ features: |
     - "**Discover Cosmic Truths:** The wonders of space will reveal themselves to you as you play. If only you were alive to see these truths unfold."
     - "**Unlock Cosmetics:** Play dress-up with your corpse because that's healthy."
     - "**Feel Existential Dread:** A friendly reminder that you and I are all going to die someday, probably sooner than we'd like to think."
-videos: 
+videos:
     -
         name: "Announcement Trailer"
         youtube: DyGCm2Y3kJw
 
-quotes: 
+quotes:
     -
         name: "Jody Macgregor"
         description: "I don't know about you, but that's my money down."
@@ -54,7 +54,7 @@ quotes:
 "monetization_permission": monetize
 
 
-credits: 
+credits:
     -
         person: "Greyson Richey"
         website: "http://synsugarstudio.com/"
@@ -64,7 +64,7 @@ credits:
         website: "http://nicholaslives.portfoliobox.io/"
         role: "Artist, Marketing"
 
-contacts: 
+contacts:
     -
         name: Email
         mail: "loneliestspaceman@gmail.com"
@@ -77,8 +77,8 @@ contacts:
     -
         name: Web
         link: "http://lonelyastronaut.space/"
-screenshots: 6
-gifs: 3
+screenshots: 9
+gifs: 0
 hero_images: 3
 logo:
     - "LA-LogoWhite.png"
